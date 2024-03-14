@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "v-dropdown": "^3.0.0",
-    "vue": "^3.3.4"
+    "vue": "^3.3.0"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.4.0",
